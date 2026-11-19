@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "login": "skibididobdob228",
+  "seed": "#E5484D",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Привет я",
+    "name": "Timofeyka",
+    "subtitle": "делаю че в голову придет",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "brand:artixlinux",
+        "label": "I use artix btw"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разраб рандомных проектов "
+      },
+      {
+        "icon": "code",
+        "label": "Люблю"
+      },
+      {
+        "icon": "palette",
+        "label": "Минималистичный дизайн"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Что есть",
+    "groups": [
+      {
+        "title": "Люблю",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          },
+          {
+            "icon": "brand:artixlinux",
+            "label": "Artix"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "Telegram"
+          }
+        ]
+      },
+      {
+        "title": "Инструменты",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "Claude Code"
+          },
+          {
+            "icon": "brand:airplayvideo",
+            "label": "Компьютер"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звезд имеется",
+    "contributions": "Лучшие Разработчики",
+    "repos": "Репозитории",
+    "followers": "Фолловеры",
+    "calendar": "Че делал последнее",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Последние языки",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Стрик",
+    "current": "Стрик сейчас",
+    "longest": "Самый долгий за все время",
+    "days": "дней"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/anonymous228229"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/timofeygod"
+      },
+      {
+        "icon": "brand:biolink",
+        "url": "https://timofeykabio.xyz"
+      },
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/loveshkibididebil/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "outlined",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мое био",
+        "url": "https://timofeykabio.xyz/",
+        "style": "filled"
+      }
+    ],
+    "card": true
+  }
+}
