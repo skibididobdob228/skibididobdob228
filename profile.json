@@ -3,7 +3,7 @@
   "login": "skibididobdob228",
   "seed": "#E5484D",
   "seedFromAvatar": false,
-  "scheme": "vibrant",
+  "scheme": "monochrome",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -17,9 +17,7 @@
     "wave",
     "buttons"
   ],
-  "hidden": [
-    "projects"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "Привет я",
     "name": "Timofeyka",
