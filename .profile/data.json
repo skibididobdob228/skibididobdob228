@@ -1,29 +1,17 @@
 {
- "key": "1d4b54fb",
+ "key": "3761d3e6",
  "stars": 0,
- "contributions": 0,
- "repos": 7,
+ "contributions": 44,
+ "repos": 4,
  "followers": 0,
  "languages": [
   [
    "Java",
-   892462
-  ],
-  [
-   "C++",
-   110621
+   671962
   ],
   [
    "Python",
    72882
-  ],
-  [
-   "GLSL",
-   5212
-  ],
-  [
-   "CMake",
-   2001
   ]
  ],
  "days": [
@@ -39,7 +27,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 3,
     "today": false
    },
@@ -123,12 +111,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 19,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 20,
     "today": true
    },
@@ -136,29 +124,11 @@
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 0
+  "current": 2,
+  "longest": 5
  },
  "pins": [],
  "all": [
-  {
-   "name": "verity",
-   "url": "https://github.com/skibididobdob228/verity",
-   "text": "Хоррор-мод для Minecraft 1.21.1 (NeoForge) по мотивам сериала «Something»: Верити™ — ИИ-помощник с голосом, сюжетом и монстром",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "Urbex-Simulator",
-   "url": "https://github.com/skibididobdob228/Urbex-Simulator",
-   "text": "Urbex",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
   {
    "name": "skibididobdob228",
    "url": "https://github.com/skibididobdob228/skibididobdob228",
@@ -178,12 +148,12 @@
    "topics": []
   },
   {
-   "name": "macoblox-my-version",
-   "url": "https://github.com/skibididobdob228/macoblox-my-version",
-   "text": "lol",
+   "name": "verity",
+   "url": "https://github.com/skibididobdob228/verity",
+   "text": "Хоррор-мод для Minecraft 1.21.1 (NeoForge) по мотивам сериала «Something»: Верити™ — ИИ-помощник с голосом, сюжетом и монстром",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "Java",
    "topics": []
   },
   {
@@ -193,15 +163,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "-",
-   "url": "https://github.com/skibididobdob228/-",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
    "topics": []
   }
  ]
