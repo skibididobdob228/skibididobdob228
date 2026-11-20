@@ -109,12 +109,12 @@
   "stats": {
     "title": "Активность на GitHub",
     "stars": "Звезд имеется",
-    "contributions": "Лучшие Разработчики",
+    "contributions": "Комитов",
     "repos": "Репозитории",
     "followers": "Фолловеры",
     "calendar": "Че делал последнее",
     "weekdays": "ВПВСЧПС",
-    "languages": "Последние языки",
+    "languages": "Последние языки програмирования",
     "showLanguages": true
   },
   "streak": {
