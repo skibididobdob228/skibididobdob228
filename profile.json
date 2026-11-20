@@ -109,10 +109,10 @@
   "stats": {
     "title": "Активность на GitHub",
     "stars": "Звезд имеется",
-    "contributions": "Комитов",
+    "contributions": "Коммитов",
     "repos": "Репозитории",
     "followers": "Фолловеры",
-    "calendar": "Че делал последнее",
+    "calendar": "Моя активность",
     "weekdays": "ВПВСЧПС",
     "languages": "Последние языки програмирования",
     "showLanguages": true
