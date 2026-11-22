@@ -1,8 +1,8 @@
 {
- "key": "bcb5af9c",
+ "key": "390292f0",
  "stars": 0,
- "contributions": 48,
- "repos": 4,
+ "contributions": 52,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
@@ -11,7 +11,15 @@
   ],
   [
    "Python",
-   72882
+   115495
+  ],
+  [
+   "QML",
+   20283
+  ],
+  [
+   "Lua",
+   514
   ]
  ],
  "days": [
@@ -91,7 +99,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 4,
     "day": 22,
     "today": true
    },
@@ -104,11 +112,20 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 5
  },
  "pins": [],
  "all": [
+  {
+   "name": "hyprloader",
+   "url": "https://github.com/skibididobdob228/hyprloader",
+   "text": "A themeable Hyprland and Quickshell profile selector with ZIP imports",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
   {
    "name": "skibididobdob228",
    "url": "https://github.com/skibididobdob228/skibididobdob228",
